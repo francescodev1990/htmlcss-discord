@@ -28,9 +28,9 @@ header{
 
 .col-25-1{
     height: 350px;
-    width: 25%;
-    background-color: orange;
-    border: solid black 1px;
+    width: 250px;
+    background-color: rgb(45, 41, 41);
+    
 }
 .col-50{
     height: 40px;
@@ -42,6 +42,7 @@ ul{
     list-style-type: none;
     font-size: 15px;
     color: white;
+    line-height: 26px;
 }
 
 .topbar{
@@ -113,4 +114,12 @@ ul{
 .row{
     display: flex;
     width: 100%;
+}
+
+h4{
+    color: violet;
+}
+
+hr{
+    color: violet;
 }

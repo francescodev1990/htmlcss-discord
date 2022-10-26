@@ -95,14 +95,11 @@ ul{
 }
  
 .quarto-paragrafo{
-    text-align: justify;
+    text-align: center;
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.titolo-quarto-paragrafo{
-    text-align: center;
-}
     
 .paragrafo-1{
     font-size: small;

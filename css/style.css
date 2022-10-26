@@ -7,8 +7,7 @@
 header{
     display: flex;
     align-items: center;
-    height: 100px;
-    background-color: lightblue;
+    background-color: #255ee9;
 }
 
 .container{
@@ -43,11 +42,20 @@ header{
     text-align: center;
 }
 
+ul{
+    list-style-type: none;
+}
+
+.topbar{
+    width: 1500px;
+    height: 50px;
+}
 
 /* FINE HEADER */
 
 .background-blue{
     background-color: rgb(13, 13, 111);
+    height: 150px;
 }
 
 .container-small{

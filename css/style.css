@@ -53,11 +53,10 @@ ul{
 
 .button-dx{
     border-radius: 50px;
-    border: 1px solid white;
+    border: 1px solid lightcyan;
     background-color: white;
     color: black;
     font-size: 18px;
-
 }
 /* FINE HEADER */
 
@@ -113,18 +112,12 @@ ul{
     background-color: lightgrey;
 }
 
-.col-20{
-    background-color: pink;
-    border: 1px solid black;
-    height: 350px;
+.col-20{    
     width: 20%;
 }
 
 .col-70{
-    background-color: lightcoral;
     width: 70%;
-    height: 350px;
-    border: 1px solid black;
 }
 
 .background-dark-grey{
@@ -134,18 +127,4 @@ ul{
 .row{
     display: flex;
     width: 100%;
-}
-
-
-
-
-.column{
-    display: flex;
-    align-items: center;
-    height: 100px;
-    width: auto;
-    background-color: lightgoldenrodyellow;
-    border: 1px solid black;
-    margin: 0 auto;
-    justify-content: space-around;
 }
